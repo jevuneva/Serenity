@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demo.guru99.Runners.LoginRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="JESUS_DELL" time="0.0">
+  <properties/>
+  <system-out><![CDATA[13:29:02.335 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM D:\Escritorio\Proy_gregoria\ProyScreemPlay\serenity.properties 
+13:29:03.646 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM D:\Escritorio\Proy_gregoria\ProyScreemPlay\serenity.properties 
+13:29:03.648 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM D:\Escritorio\Proy_gregoria\ProyScreemPlay\serenity.properties 
+13:29:03.708 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+13:29:03.709 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=chromedriver.exe
+13:29:03.709 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.switches=--start-maximized --disable-popup-blocking
+13:29:03.709 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.take.screenshots=FOR_EACH_ACTION
+13:29:03.710 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+13:29:06.076 [Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///D:/Escritorio/Proy_gregoria/ProyScreemPlay/src/test/resources/features/login.feature
+
+0 Scenarios
+0 Steps
+0m4,666s
+
+
+13:29:10.804 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+13:29:12.489 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+13:29:12.687 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 0 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@60c16548
+13:29:12.688 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+13:29:12.688 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 1 ms
+13:29:12.689 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 0 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@591fd34d
+13:29:12.689 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+13:29:12.689 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 0 ms
+13:29:12.692 [Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///D:/Escritorio/Proy_gregoria/ProyScreemPlay/src/test/resources/features/login.feature
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
